@@ -1,2 +1,3 @@
 # KeeperNote
-Created with CodeSandbox
+Firts Project developped in React
+Clone of Google Keep
